@@ -1,0 +1,16 @@
+Download the required shape files from this folder
+https://drive.google.com/drive/folders/1Q13hvF36o8UfcOVLFZtRi4LoTIN9-4ZH?usp=drive_link
+
+L3 ghi files are soured from India Meteorological Department. Here i have provieded only 3 files of 05-04-2024 to 07-04-2024. More data can be obtained from Imd regarding this analysis
+https://mausam.imd.gov.in/
+
+after getting required data or if you want to anyalise only these 3 days. Put all shape files into same folder. Now run prototype notebook
+
+contact- mailrahulboora@gmail.com
+
+requirements
+pandas
+numpy 
+matplotlib
+geopandas
+h5py
